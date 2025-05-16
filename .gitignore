@@ -1,0 +1,5 @@
+# تجاهل ملفات الجلسة
+session.session*
+__pycache__/
+*.pyc
+.env
